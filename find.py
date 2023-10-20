@@ -8,7 +8,7 @@ print('''
 By using the software you agree to the rules written in the file "Rules-for-using-software.txt"!
 ''')
 
-time.sleep(3)
+time.sleep(2)
 
 parser = argparse.ArgumentParser(description='Find IP address location and open a web map.')
 
