@@ -21,13 +21,13 @@ Best regards, [Victor "cbFelix" Lebedev/software author]
 
 
 Getting started:
-`git clone https://github.com/cbFelix/find-by-ip`
-`cd find-by-ip`
-`pip install -r requirements.txt`
-Example of use in terminal:
-`python find.py --web-map --target <ip>`
-`--web-map` to automatically open the map in the browser.
-`--target <ip>` is a required parameter indicating the IP address.
-If you want to use a GUI then use:
-`python graph.py`
+`git clone https://github.com/cbFelix/find-by-ip`\n
+`cd find-by-ip`\n
+`pip install -r requirements.txt`\n
+Example of use in terminal:\n
+`python find.py --web-map --target <ip>`\n
+`--web-map` to automatically open the map in the browser.\n
+`--target <ip>` is a required parameter indicating the IP address.\n
+If you want to use a GUI then use:\n
+`python graph.py`\n
 
