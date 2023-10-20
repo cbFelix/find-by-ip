@@ -24,10 +24,10 @@ Getting started:
 `git clone https://github.com/cbFelix/find-by-ip`
 `cd find-by-ip`
 `pip install -r requirements.txt`
-Example of use in terminal:\
-`python find.py --web-map --target <ip>`\
-`--web-map` to automatically open the map in the browser.\
-`--target <ip>` is a required parameter indicating the IP address.\
-If you want to use a GUI then use:\
-`python graph.py`\
+Example of use in terminal:
+`python find.py --web-map --target <ip>`
+`--web-map` to automatically open the map in the browser.
+`--target <ip>` is a required parameter indicating the IP address.
+If you want to use a GUI then use:
+`python graph.py`
 
